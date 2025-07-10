@@ -1,0 +1,25 @@
+
+
+
+#faq-section{
+    scroll-margin-top: 290px;
+}
+.faq{
+    margin-top: 120px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.faq-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 767px){
+    .faq-title{
+        text-align: center;
+    }
+}

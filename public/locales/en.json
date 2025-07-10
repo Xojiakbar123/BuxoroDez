@@ -1,0 +1,64 @@
+{
+  "Asosiy": "Home",
+  "Biz xaqimizda": "About Us",
+  "Xizmatlar": "Services",
+  "Boglanish": "Contact",
+  "Buxoro Dezinfektsiya xizmati": "Bukhara Disinfection Service",
+  "Biz Buxoroda 10 yildan beri professional dezinfeksiya ishlarini olib boramiz, shuning uchun birinchi marta zararkunandalardan qanday qutilishni bilamiz.": "We have been providing professional disinfection services in Bukhara for over 10 years, so we know exactly how to get rid of pests the first time.",
+   "Tezkor Xizmat Korsatish": "Fast Service Delivery",
+  "ARIZALAR KUNIGA 24 SOAT QABUL QILINADI. AGAR MUAMMO SHOSILINCH BOlsa, BIZ DARHOL KETISHIMIZ MUMKIN. SHU BILAN BIRGA, SIFAT MUKAMMAL BOLIB KOLADI.": "Requests are accepted 24 hours a day. If the issue is urgent, we can arrive immediately, while maintaining perfect quality.",
+  "Yetuk Mutaxasislarimiz": "Qualified Specialists",
+  "BIZNING HODIMLARIMIZ HAMMA NARSAGA GAMXORLIK QILADI: HISOB-KITOBLAR, XONANI TAYYoRLash, QAYTA ISHLASH, YAKUNIY TOZALASH, VENTILYATSIYA VA NAZORAT TEKSHIRUVI.": "Our staff takes care of everything: calculations, room preparation, reprocessing, final cleaning, ventilation, and inspection.",
+  "Sizga Maqul Vaqtda": "At Your Convenience",
+  "SIZ OZINGIZ UCHUN MAQUL VA QULAY VAQTNI TALANG VA BIZGA MUROJAT QILING. SIZGA KAFOLATLANGAN VA SAMARALI NATIJANI OLIB BORAMIZ.": "Choose a convenient time and contact us. We guarantee effective and reliable results.",
+   "Klapa va zararli hashorot endi yoq deb hisoblang !!!": "Consider bedbugs and harmful insects gone!!!",
+  "Bizning kop yillardan beri oz faoliyatini olib borayotgan kompaniyamiz. Mijozlarimiz bizdan mamnun": "We are a company operating for many years. Our clients are satisfied with our service.",
+  "Biz sizga samarali va sigatli xizmat taqdim etamiz.": "We provide effective and quality services for you.",
+  "Dezinfeksiya - zararli mikro organizmlarni yoq qilish": "Disinfection - Elimination of harmful microorganisms",
+  "Har qanday dezinfektsiyaning asosiy vazifalari infektsiyalar va kasalliklarga olib kelishi mumkin bolgan xavfli mikroorganizmlarni yoq qilishdir. Dezinfeksiya choralari bu yerni mogor, virus, chiriyotgan va mikroblardan tozalaydi. Agar ozingni yoq qilish kerak, yoki sababsiz zaiflashsangiz kerak.": "The main task of any disinfection is to eliminate harmful microorganisms that may cause infections or diseases. It removes mold, viruses, and bacteria from the environment.",
+  "Dezinseksiya - xasharotlarni yoq qilish": "Disinsection - Elimination of insects",
+  "Kop odamlar birinchi navbatda \"dezinfestatsiya\" sozini istalmagan qoshnilaridan - choyshablar, barchamböcekler, chumolilar va boshqa hasharotlardan xalos bolish du yolini qidirganda. Ularning ozlarini yoqimsiz va ular ham malum infeksiya tashuvchilari. Dezinseksiya - bu hasharotlarni: chivinlar, chivinlar, choyshablar, tarakanlar, kuya, shomil, qobiq qongizlari, yogoch bitlari va boshqa sudralib yuruvchi va uchuvchi jonzotlarni yoq qilish.": "Many people first seek disinsection to get rid of unwanted guests such as bedbugs, cockroaches, ants, and other insects. These pests are not only unpleasant but may also carry infections.",
+  "Deratizatsiya - kemiruvchilarni yoq qilish.": "Deratization - Rodent extermination",
+  "Toshkentda derat sifatida kamiruvchilarni yoqotishga qaratiladigan kompleks chora-tadbirlarning butun majmuasidir. aniqki, kemiruvchilar juda qatiy jonzotlar bolib, ular turli xavfli xavf-xatarlarga dosh beradilar. Shuning uchun ularni yoq qilish uchun bir panel usullardan foydalanish kerak. Derat joyda Toshkent shaharlarida kemiruvchilar paydo bolgan kop qavmli uylar, omborlar, dokonlar, umumiy ovkatlanish korxonalari amalga ochiriladi.": "Deratization is a set of measures aimed at eliminating rodents in Tashkent. Rodents are resilient and potentially dangerous creatures that spread diseases. We use professional techniques to eradicate them in homes, warehouses, and food facilities.",
+  "Xizmat turi": "Service Types",
+  "KLAPALAR": "Bed Bugs",
+  "Ular to‘shakda, yumshoq mebelda, to‘qimachilikda, eshik romlari va deraza romlari ostida yashaydilar. Ular odamlar va issiq qonlilarning qoni bilan oziqlashadi. Allergiya va og‘ir psixolik noqulaylikni qo‘zg‘atish...": "They live in beds, soft furniture, textiles, under door and window frames. They feed on human and warm-blooded animals’ blood. May cause allergies and serious psychological discomfort...",
+
+  "TARAKANLAR": "Cockroaches",
+  "Ular patogenlarni olib yuradilar. Ular yoriqlarda, taglik tagida, mebel orasida, hammom ostida, shkaflar ostida va hokazolarda yashaydilar. Ular o‘shiq-ovqat, maishiy chiqindilar, charm buyumlar va qog‘oz bilan oziqlanadi.": "They carry pathogens. They live in cracks, under plinths, between furniture, under bathrooms, under cabinets, etc. They feed on food, household waste, leather items and paper.",
+
+  "CHAYON": "Scorpions",
+  "Hasharotlar va araxnidlar bilan o‘zlashtiriladigan issiqlikni yaxshi ko‘radigan jonzotlar. Ular omborlarda va uylarda yashashlari mumkin, lekin ko‘p hollarda yog‘och binolarda topiladi ...": "Creatures that like heat absorbed from insects and arachnids. They can live in warehouses and houses, but are mostly found in wooden buildings...",
+
+  "KEMIRUVCHILAR": "Rodents",
+  "Eng keng tarqalgan kalamushlar va sichqonlar. Ular patogenlarni olib yuradi, barcha sirtlarda ishlaydi, devor va shiftlarda o‘tish joylarini yaratadi, strukturani ishonchsizlashtiradi. Ular o‘shiq-ovqat va maishiy chiqindilar bilan oziqlanadi...": "Most common are rats and mice. They carry pathogens, travel all surfaces, create passages in walls and ceilings, weaken structures. They feed on food and household waste...",
+
+  "BURGALAR": "Fleas",
+  "Ular uy hayvonlari tanasiga kirib, qushlardan ko‘chib ketishadi. Ular yumshoq mebellar, to‘rpa-tushaklar, gilamlar, yumshoq o‘yinchoqlar, taglik tagida va deraza va eshik romlarida yashaydilar. Ular odamlar va hayvonlarning qoni bilan oziqlanadilar. Ular kasalliklarga olib keladi ...": "They enter via pets and migrate from birds. They live in soft furniture, bedding, carpets, toys, under floors, window and door frames. Feed on human and animal blood. Can cause diseases...",
+  "Rasmiy foydalanish - 1 yil. Biz xizmat va yuridik shaxslarga xizmat kursatamiz. Xizmatlar litsenziyalangan!!!": "Official use – 1 year. We provide services to individuals and legal entities. All services are licensed!!!",
+  "Zararkunandalarni yo'q qilish qanday amalga oshiriladi?": "How is pest extermination performed?",
+  "Maxsus devor-uskunalar yordamida insektitsidlar aerozolli tumanga aylantiradi va qo'g'ozi, devorlar va taxta plitalari orasidagi eng kichik bo'shliklarga, ko'zga ko'rinmas hasharotlar uchun potentsial 'yashirish joylari' ga kiradi.": "Special wall equipment turns insecticides into an aerosol fog that penetrates cracks between baseboards, walls, and floorboards — potential hiding spots for invisible pests.",
+
+  "Siz foydalanilgan dorilar xavflilimi?": "Are the chemicals you use dangerous?",
+  "Dorilar odamlar, uyvonlari va o'simliklar uchun xavfli emas. Ammo davolashdan keyingi xonani 40 daqiqada ventilyatsiya qilish kerak.": "The chemicals are not harmful to humans, pets, or plants. However, the treated area should be ventilated for 40 minutes after application.",
+
+  "Menga uyimni davolishga tayyorlashning qandaydir usuli kerakmi?": "Do I need to prepare my home before treatment?",
+  "Asosan, idish-tovoq va shaxsiy gigiena vositalarini izolyatsion qilishingiz kerak. Davolash vaqtida uyvonlari ham izolyatsiya qilinishi kerak. Mebel yoki maishiy texnikani ko'rishga xojat yo'q.": "Mainly, you should isolate dishes and personal hygiene items. Pets should also be isolated during treatment. There is no need to move furniture or appliances.",
+  "So‘rov muvaffaqiyatli yuborildi!": "Request sent successfully!",
+  "Tez orada siz bilan bog‘lanamiz.": "We will contact you shortly.",
+  "Yopish": "Close",
+  "Malumotingizni qoldiring": "Leave your information",
+  "Ismingiz": "Your name",
+  "Yuborish": "Send",
+  "Ozbekistan,Buxoro shaxri": "Uzbekistan, Bukhara city"
+}
+
+
+
+
+
+
+
+
+
+

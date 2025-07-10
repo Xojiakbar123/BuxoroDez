@@ -1,0 +1,59 @@
+/* https://www.allstarsoftwash.com/wp-content/uploads/2022/07/AdobeStock_333593558.jpeg */
+
+.wrapper{
+    margin-top: 100px;
+}
+
+
+
+.wrapper-title{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.layout{
+    width: 200px;
+}
+.wrapper-text{
+    font-size: 20px;
+    color: grey;
+    font-weight: 500;
+    margin-bottom: 40px;
+    
+}
+.wrapper-btn{
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    background-color: rgba(0, 128, 0, 0.474);
+    color: white;
+    border: 2px solid rgba(0, 128, 0, 0.474);
+    margin-bottom: 100px;
+}
+.wrapper-btn:hover{
+    color: rgba(0, 128, 0, 0.474);
+    background-color: transparent;
+    transition: .5s;
+}
+.texts{
+    width: 500px;
+}
+.wrapper .container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(https://www.allstarsoftwash.com/wp-content/uploads/2022/07/AdobeStock_333593558.jpeg );
+    border-radius: 15px;
+}
+@media (max-width: 767px){
+    .layout{
+        display: none;
+        margin-left: 20px;
+    }
+    .wrapper-text{
+        color: black;
+    }
+
+}
